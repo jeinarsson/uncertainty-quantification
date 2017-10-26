@@ -1,3 +1,77 @@
 {
-	"Hello": "world"
+    "slices": [
+        {
+            "params": [
+                {
+                    "param_id": "CN_min",
+                    "param_values": [
+                        8,
+                        10
+                    ]
+                },
+                {
+                    "param_id": "D_max",
+                    "param_values": [
+                        0.15,
+                        0.2,
+                        0.25
+                    ]
+                }
+            ],
+            "point_data": [
+                [
+                    {
+                        "biogas_potential": 28292.991325183863,
+                        "raster_path": "CN_min_8__D_max_0.15.tif",
+                        "params": {
+                            "CN_min": 8,
+                            "D_max": 0.15
+                        }
+                    },
+                    {
+                        "biogas_potential": 33251.876764347886,
+                        "raster_path": "CN_min_8__D_max_0.2.tif",
+                        "params": {
+                            "CN_min": 8,
+                            "D_max": 0.2
+                        }
+                    },
+                    {
+                        "biogas_potential": 36070.543650414234,
+                        "raster_path": "CN_min_8__D_max_0.25.tif",
+                        "params": {
+                            "CN_min": 8,
+                            "D_max": 0.25
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 25280.761533904624,
+                        "raster_path": "CN_min_10__D_max_0.15.tif",
+                        "params": {
+                            "CN_min": 10,
+                            "D_max": 0.15
+                        }
+                    },
+                    {
+                        "biogas_potential": 30232.216785160734,
+                        "raster_path": "CN_min_10__D_max_0.2.tif",
+                        "params": {
+                            "CN_min": 10,
+                            "D_max": 0.2
+                        }
+                    },
+                    {
+                        "biogas_potential": 33049.85262337298,
+                        "raster_path": "CN_min_10__D_max_0.25.tif",
+                        "params": {
+                            "CN_min": 10,
+                            "D_max": 0.25
+                        }
+                    }
+                ]
+            ]
+        }
+    ]
 }
