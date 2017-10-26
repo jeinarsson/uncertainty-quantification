@@ -6,7 +6,10 @@
                     "param_id": "CN_min",
                     "param_values": [
                         8,
-                        10
+                        10,
+                        12,
+                        14,
+                        16
                     ]
                 },
                 {
@@ -14,60 +17,610 @@
                     "param_values": [
                         0.15,
                         0.2,
-                        0.25
+                        0.25,
+                        0.3,
+                        0.35
                     ]
                 }
             ],
             "point_data": [
                 [
                     {
-                        "biogas_potential": 28292.991325183863,
-                        "raster_path": "CN_min_8__D_max_0.15.tif",
+                        "biogas_potential": 28292.991325183873,
+                        "raster_path": "CN_min_8__D_max_0.15.png",
                         "params": {
                             "CN_min": 8,
                             "D_max": 0.15
                         }
                     },
                     {
-                        "biogas_potential": 33251.876764347886,
-                        "raster_path": "CN_min_8__D_max_0.2.tif",
+                        "biogas_potential": 33251.8767643479,
+                        "raster_path": "CN_min_8__D_max_0.2.png",
                         "params": {
                             "CN_min": 8,
                             "D_max": 0.2
                         }
                     },
                     {
-                        "biogas_potential": 36070.543650414234,
-                        "raster_path": "CN_min_8__D_max_0.25.tif",
+                        "biogas_potential": 36070.54365041425,
+                        "raster_path": "CN_min_8__D_max_0.25.png",
                         "params": {
                             "CN_min": 8,
                             "D_max": 0.25
+                        }
+                    },
+                    {
+                        "biogas_potential": 38052.81056603344,
+                        "raster_path": "CN_min_8__D_max_0.3.png",
+                        "params": {
+                            "CN_min": 8,
+                            "D_max": 0.3
+                        }
+                    },
+                    {
+                        "biogas_potential": 39096.83085034925,
+                        "raster_path": "CN_min_8__D_max_0.35.png",
+                        "params": {
+                            "CN_min": 8,
+                            "D_max": 0.35
                         }
                     }
                 ],
                 [
                     {
-                        "biogas_potential": 25280.761533904624,
-                        "raster_path": "CN_min_10__D_max_0.15.tif",
+                        "biogas_potential": 25280.76153390463,
+                        "raster_path": "CN_min_10__D_max_0.15.png",
                         "params": {
                             "CN_min": 10,
                             "D_max": 0.15
                         }
                     },
                     {
-                        "biogas_potential": 30232.216785160734,
-                        "raster_path": "CN_min_10__D_max_0.2.tif",
+                        "biogas_potential": 30232.216785160745,
+                        "raster_path": "CN_min_10__D_max_0.2.png",
                         "params": {
                             "CN_min": 10,
                             "D_max": 0.2
                         }
                     },
                     {
-                        "biogas_potential": 33049.85262337298,
-                        "raster_path": "CN_min_10__D_max_0.25.tif",
+                        "biogas_potential": 33049.852623372986,
+                        "raster_path": "CN_min_10__D_max_0.25.png",
                         "params": {
                             "CN_min": 10,
                             "D_max": 0.25
+                        }
+                    },
+                    {
+                        "biogas_potential": 35032.809471354434,
+                        "raster_path": "CN_min_10__D_max_0.3.png",
+                        "params": {
+                            "CN_min": 10,
+                            "D_max": 0.3
+                        }
+                    },
+                    {
+                        "biogas_potential": 36077.65243158825,
+                        "raster_path": "CN_min_10__D_max_0.35.png",
+                        "params": {
+                            "CN_min": 10,
+                            "D_max": 0.35
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 22839.117845705114,
+                        "raster_path": "CN_min_12__D_max_0.15.png",
+                        "params": {
+                            "CN_min": 12,
+                            "D_max": 0.15
+                        }
+                    },
+                    {
+                        "biogas_potential": 27802.956984225126,
+                        "raster_path": "CN_min_12__D_max_0.2.png",
+                        "params": {
+                            "CN_min": 12,
+                            "D_max": 0.2
+                        }
+                    },
+                    {
+                        "biogas_potential": 30620.36157138346,
+                        "raster_path": "CN_min_12__D_max_0.25.png",
+                        "params": {
+                            "CN_min": 12,
+                            "D_max": 0.25
+                        }
+                    },
+                    {
+                        "biogas_potential": 32598.42041069503,
+                        "raster_path": "CN_min_12__D_max_0.3.png",
+                        "params": {
+                            "CN_min": 12,
+                            "D_max": 0.3
+                        }
+                    },
+                    {
+                        "biogas_potential": 33612.19286658604,
+                        "raster_path": "CN_min_12__D_max_0.35.png",
+                        "params": {
+                            "CN_min": 12,
+                            "D_max": 0.35
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 18807.784593912846,
+                        "raster_path": "CN_min_14__D_max_0.15.png",
+                        "params": {
+                            "CN_min": 14,
+                            "D_max": 0.15
+                        }
+                    },
+                    {
+                        "biogas_potential": 25826.73390931009,
+                        "raster_path": "CN_min_14__D_max_0.2.png",
+                        "params": {
+                            "CN_min": 14,
+                            "D_max": 0.2
+                        }
+                    },
+                    {
+                        "biogas_potential": 28649.935942165117,
+                        "raster_path": "CN_min_14__D_max_0.25.png",
+                        "params": {
+                            "CN_min": 14,
+                            "D_max": 0.25
+                        }
+                    },
+                    {
+                        "biogas_potential": 30591.318653583163,
+                        "raster_path": "CN_min_14__D_max_0.3.png",
+                        "params": {
+                            "CN_min": 14,
+                            "D_max": 0.3
+                        }
+                    },
+                    {
+                        "biogas_potential": 31604.951437032334,
+                        "raster_path": "CN_min_14__D_max_0.35.png",
+                        "params": {
+                            "CN_min": 14,
+                            "D_max": 0.35
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 9403.087745933502,
+                        "raster_path": "CN_min_16__D_max_0.15.png",
+                        "params": {
+                            "CN_min": 16,
+                            "D_max": 0.15
+                        }
+                    },
+                    {
+                        "biogas_potential": 24102.37056384181,
+                        "raster_path": "CN_min_16__D_max_0.2.png",
+                        "params": {
+                            "CN_min": 16,
+                            "D_max": 0.2
+                        }
+                    },
+                    {
+                        "biogas_potential": 26992.930367431258,
+                        "raster_path": "CN_min_16__D_max_0.25.png",
+                        "params": {
+                            "CN_min": 16,
+                            "D_max": 0.25
+                        }
+                    },
+                    {
+                        "biogas_potential": 28930.587863163597,
+                        "raster_path": "CN_min_16__D_max_0.3.png",
+                        "params": {
+                            "CN_min": 16,
+                            "D_max": 0.3
+                        }
+                    },
+                    {
+                        "biogas_potential": 29945.06927504604,
+                        "raster_path": "CN_min_16__D_max_0.35.png",
+                        "params": {
+                            "CN_min": 16,
+                            "D_max": 0.35
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "params": [
+                {
+                    "param_id": "CN_min",
+                    "param_values": [
+                        8,
+                        10,
+                        12,
+                        14,
+                        16
+                    ]
+                },
+                {
+                    "param_id": "P_min",
+                    "param_values": [
+                        0.5,
+                        1,
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "point_data": [
+                [
+                    {
+                        "biogas_potential": 24323.704978685324,
+                        "raster_path": "CN_min_8__P_min_0.5.png",
+                        "params": {
+                            "CN_min": 8,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 23510.617511633685,
+                        "raster_path": "CN_min_8__P_min_1.png",
+                        "params": {
+                            "CN_min": 8,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 22338.17320291073,
+                        "raster_path": "CN_min_8__P_min_2.png",
+                        "params": {
+                            "CN_min": 8,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 19697.00215977496,
+                        "raster_path": "CN_min_8__P_min_4.png",
+                        "params": {
+                            "CN_min": 8,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 21290.868033206163,
+                        "raster_path": "CN_min_10__P_min_0.5.png",
+                        "params": {
+                            "CN_min": 10,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 20530.47639211953,
+                        "raster_path": "CN_min_10__P_min_1.png",
+                        "params": {
+                            "CN_min": 10,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 19304.7515233292,
+                        "raster_path": "CN_min_10__P_min_2.png",
+                        "params": {
+                            "CN_min": 10,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 16547.74852264897,
+                        "raster_path": "CN_min_10__P_min_4.png",
+                        "params": {
+                            "CN_min": 10,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 14868.715369775375,
+                        "raster_path": "CN_min_12__P_min_0.5.png",
+                        "params": {
+                            "CN_min": 12,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 14145.647153999584,
+                        "raster_path": "CN_min_12__P_min_1.png",
+                        "params": {
+                            "CN_min": 12,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 12825.780622100343,
+                        "raster_path": "CN_min_12__P_min_2.png",
+                        "params": {
+                            "CN_min": 12,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 10351.11269033663,
+                        "raster_path": "CN_min_12__P_min_4.png",
+                        "params": {
+                            "CN_min": 12,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 2236.2777777432775,
+                        "raster_path": "CN_min_14__P_min_0.5.png",
+                        "params": {
+                            "CN_min": 14,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 1801.1912457361925,
+                        "raster_path": "CN_min_14__P_min_1.png",
+                        "params": {
+                            "CN_min": 14,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 1218.1374294043537,
+                        "raster_path": "CN_min_14__P_min_2.png",
+                        "params": {
+                            "CN_min": 14,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 566.787201137576,
+                        "raster_path": "CN_min_14__P_min_4.png",
+                        "params": {
+                            "CN_min": 14,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 1194.787551149413,
+                        "raster_path": "CN_min_16__P_min_0.5.png",
+                        "params": {
+                            "CN_min": 16,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 925.4835658034324,
+                        "raster_path": "CN_min_16__P_min_1.png",
+                        "params": {
+                            "CN_min": 16,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 482.85567389624714,
+                        "raster_path": "CN_min_16__P_min_2.png",
+                        "params": {
+                            "CN_min": 16,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 271.6640387910246,
+                        "raster_path": "CN_min_16__P_min_4.png",
+                        "params": {
+                            "CN_min": 16,
+                            "P_min": 4
+                        }
+                    }
+                ]
+            ]
+        },
+        {
+            "params": [
+                {
+                    "param_id": "D_max",
+                    "param_values": [
+                        0.15,
+                        0.2,
+                        0.25,
+                        0.3,
+                        0.35
+                    ]
+                },
+                {
+                    "param_id": "P_min",
+                    "param_values": [
+                        0.5,
+                        1,
+                        2,
+                        4
+                    ]
+                }
+            ],
+            "point_data": [
+                [
+                    {
+                        "biogas_potential": 25712.506874418625,
+                        "raster_path": "D_max_0.15__P_min_0.5.png",
+                        "params": {
+                            "D_max": 0.15,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 25280.76153390463,
+                        "raster_path": "D_max_0.15__P_min_1.png",
+                        "params": {
+                            "D_max": 0.15,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 23668.775576367323,
+                        "raster_path": "D_max_0.15__P_min_2.png",
+                        "params": {
+                            "D_max": 0.15,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 20984.624718214807,
+                        "raster_path": "D_max_0.15__P_min_4.png",
+                        "params": {
+                            "D_max": 0.15,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 30621.021806527784,
+                        "raster_path": "D_max_0.2__P_min_0.5.png",
+                        "params": {
+                            "D_max": 0.2,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 30232.216785160745,
+                        "raster_path": "D_max_0.2__P_min_1.png",
+                        "params": {
+                            "D_max": 0.2,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 28862.092737094838,
+                        "raster_path": "D_max_0.2__P_min_2.png",
+                        "params": {
+                            "D_max": 0.2,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 25722.505434678336,
+                        "raster_path": "D_max_0.2__P_min_4.png",
+                        "params": {
+                            "D_max": 0.2,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 33339.69653685706,
+                        "raster_path": "D_max_0.25__P_min_0.5.png",
+                        "params": {
+                            "D_max": 0.25,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 33049.852623372986,
+                        "raster_path": "D_max_0.25__P_min_1.png",
+                        "params": {
+                            "D_max": 0.25,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 31977.088397665022,
+                        "raster_path": "D_max_0.25__P_min_2.png",
+                        "params": {
+                            "D_max": 0.25,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 28503.299603885578,
+                        "raster_path": "D_max_0.25__P_min_4.png",
+                        "params": {
+                            "D_max": 0.25,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 35268.7018731286,
+                        "raster_path": "D_max_0.3__P_min_0.5.png",
+                        "params": {
+                            "D_max": 0.3,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 35032.809471354434,
+                        "raster_path": "D_max_0.3__P_min_1.png",
+                        "params": {
+                            "D_max": 0.3,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 33978.517094153685,
+                        "raster_path": "D_max_0.3__P_min_2.png",
+                        "params": {
+                            "D_max": 0.3,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 30811.35720903061,
+                        "raster_path": "D_max_0.3__P_min_4.png",
+                        "params": {
+                            "D_max": 0.3,
+                            "P_min": 4
+                        }
+                    }
+                ],
+                [
+                    {
+                        "biogas_potential": 36326.27102881777,
+                        "raster_path": "D_max_0.35__P_min_0.5.png",
+                        "params": {
+                            "D_max": 0.35,
+                            "P_min": 0.5
+                        }
+                    },
+                    {
+                        "biogas_potential": 36077.65243158825,
+                        "raster_path": "D_max_0.35__P_min_1.png",
+                        "params": {
+                            "D_max": 0.35,
+                            "P_min": 1
+                        }
+                    },
+                    {
+                        "biogas_potential": 35040.588425569535,
+                        "raster_path": "D_max_0.35__P_min_2.png",
+                        "params": {
+                            "D_max": 0.35,
+                            "P_min": 2
+                        }
+                    },
+                    {
+                        "biogas_potential": 32243.614504601836,
+                        "raster_path": "D_max_0.35__P_min_4.png",
+                        "params": {
+                            "D_max": 0.35,
+                            "P_min": 4
                         }
                     }
                 ]
